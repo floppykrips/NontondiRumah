@@ -1,0 +1,8 @@
+{
+  "name": "nontoncihuy",
+  "version": "1.0.0",
+  "description": "NontoCihuy - Website Streaming Film",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
